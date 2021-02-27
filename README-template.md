@@ -6,6 +6,7 @@
 
 
 ## :scroll: Description
+- list and detail
 <!--- Describe your app in one or two sentences -->
 
 
