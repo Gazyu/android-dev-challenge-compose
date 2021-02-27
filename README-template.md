@@ -10,6 +10,7 @@
 
 
 ## :bulb: Motivation and Context
+I try Jetpack Compose
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 
